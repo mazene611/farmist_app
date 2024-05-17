@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898850312330",
+    "project_id": "farmist-a4e33",
+    "storage_bucket": "farmist-a4e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898850312330:android:9514fb446b8721b2eadd73",
+        "android_client_info": {
+          "package_name": "com.example.farmist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoj_Wfq23lDsnbfA1f2ywyJFk_LKvyyNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
